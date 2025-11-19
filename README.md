@@ -23,7 +23,7 @@ Created the following pages:
 2. **About**
 3. **Contact**
 
-> Screenshots available in `/screenshots/day1/pages/`
+> Screenshots available in `/screenshots/Day1/pages/`
 
 
 
