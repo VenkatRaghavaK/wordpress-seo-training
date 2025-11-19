@@ -54,9 +54,9 @@ Created the following pages:
 
 
 
-###Day 3 – Page Builders & Design
+##Day 3 – Page Builders & Design
 
- ##Topics Covered
+ ###Topics Covered
 
 Introduction to Elementor and Gutenberg
 
@@ -64,7 +64,10 @@ Designing pages using drag-and-drop editors
 
 Adding forms, galleries, and dynamic content
 
-##Task: Create a Homepage Using Elementor
+
+
+##Task: Create a Homepage Using Elementor 
+
 Steps:
 
 Go to Pages → Add New → Edit with Elementor
