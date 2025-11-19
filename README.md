@@ -54,5 +54,46 @@ Created the following pages:
 
 
 
+###Day 3 – Page Builders & Design
+
+ ##Topics Covered
+
+Introduction to Elementor and Gutenberg
+
+Designing pages using drag-and-drop editors
+
+Adding forms, galleries, and dynamic content
+
+##Task: Create a Homepage Using Elementor
+Steps:
+
+Go to Pages → Add New → Edit with Elementor
+
+Create sections:
+
+Home section (Heading + Text + Button + Background image)
+
+About section (Image + Text)
+
+Services section (3 columns with icons)
+
+Gallery section
+
+Contact form section (CF7 or Elementor Pro)
+
+Make the page responsive (mobile/tablet)
+
+Publish the page
+
+Set it as homepage: Settings → Reading → Homepage
+
+## Files in This Folder
+
+screenshots/ – Images of the homepage you created
+
+steps.md – Steps followed
+
+notes.md – learnt
+
 
 
