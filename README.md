@@ -23,7 +23,12 @@ Created the following pages:
 2. **About**
 3. **Contact**
 
-> Screenshots available in `/screenshots/Day1/pages/`
+> Screenshots available in
+
+## Home Page Screenshot
+![Home Page](screenshots/Day1/pages/1.png)
+
+
 
 
 
