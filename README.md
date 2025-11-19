@@ -38,19 +38,19 @@ Created the following pages:
 - Modified header and footer
 - Added custom CSS
 
-![Theme Customization](screenshots/day2/theme-customization)
+![Theme Customization](screenshots/day2/theme-customization/theme-customized.png)
 
 ### ✔ Installed Plugins
 1. Yoast SEO  
 2. Contact Form 7  
 
-![Yoast SEO](screenshots/day2/yoast-seo)
+![Yoast SEO](screenshots/day2/yoast-seo/yoast.png)
 
 
 ### ✔ Created a Contact Form
 - Added Contact Form 7 shortcode inside Contact page
 
-![Contact Form](screenshots/day2/contact-form-7)
+![Contact Form](screenshots/day2/contact-form-7/contact-form-7.png)
 
 
 
