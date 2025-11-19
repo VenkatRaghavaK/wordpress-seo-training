@@ -26,7 +26,7 @@ Created the following pages:
 > Screenshots available in
 
 ## Home Page Screenshot
-![Home Page](screenshots/Day1/pages/1.png)
+![Home Page](screenshots/Day1/pages)
 
 
 
