@@ -92,11 +92,9 @@ Set it as homepage: Settings → Reading → Homepage
 
 ## Files in This Folder
 
-screenshots/ – Images of the homepage you created
+![Homepage](screenshots/Day3/)
 
-steps.md – Steps followed
 
-notes.md – learnt
 
 
 
