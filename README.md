@@ -92,7 +92,7 @@ Set it as homepage: Settings → Reading → Homepage
 
 ## Files in This Folder
 
-![Homepage](screenshots/Day3/home.png)
+![Homepage](screenshots/Day3/Elementor/home.png)
 
 
 
