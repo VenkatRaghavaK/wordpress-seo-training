@@ -113,8 +113,9 @@ Used alt text for images
 
 
 
-Day 5 — Off-Page SEO & Google Analytics
-🎯 Goals
+### Day 5 — Off-Page SEO & Google Analytics
+
+##Goals
 
 Learn backlink building basics
 
@@ -122,7 +123,7 @@ Publish Blog #2 and Blog #3
 
 Integrate and verify Google Analytics (GA4)
 
-📌 Tasks Checklist
+##Tasks Checklist
 
  Write and optimize Blog #2
 
@@ -138,44 +139,16 @@ Integrate and verify Google Analytics (GA4)
 
  Create basic backlink outreach plan
 
-🧰 Tools Used
+##Tools Used
 
 Google Analytics
 
 WordPress + Site Kit Plugin
 
 Google Analytics
-🎯 Goals
 
-Learn backlink building basics
+## Files in This Folder
 
-Publish Blog #2 and Blog #3
-
-Integrate and verify Google Analytics (GA4)
-
-📌 Tasks Checklist
-
- Write and optimize Blog #2
-
- Write and optimize Blog #3
-
- Publish both blogs on WordPress
-
- Add internal links and images
-
- Install and connect Google Analytics (GA4)
-
- Verify tracking with a realtime screenshot
-
- Create basic backlink outreach plan
-
-🧰 Tools Used
-
-Google Analytics
-
-WordPress + Site Kit Plugin
-
-Grammarly / Quillbot (optional for editing)
 
 
 
