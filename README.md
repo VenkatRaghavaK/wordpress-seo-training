@@ -115,7 +115,7 @@ Used alt text for images
 
 ### Day 5 — Off-Page SEO & Google Analytics
 
-##Goals
+## Goals
 
 Learn backlink building basics
 
@@ -123,7 +123,7 @@ Publish Blog #2 and Blog #3
 
 Integrate and verify Google Analytics (GA4)
 
-##Tasks Checklist
+## Tasks Checklist
 
  Write and optimize Blog #2
 
@@ -139,7 +139,7 @@ Integrate and verify Google Analytics (GA4)
 
  Create basic backlink outreach plan
 
-##Tools Used
+## Tools Used
 
 Google Analytics
 
