@@ -29,8 +29,6 @@ Created the following pages:
 ![Home Page](screenshots/Day1/pages/home.png)
 
 
-
-
 ## Day 2 – Themes and Plugins
 
 ### ✔ Customized Theme
@@ -93,6 +91,25 @@ Set it as homepage: Settings → Reading → Homepage
 ## Files in This Folder
 
 ![Homepage](screenshots/Day3/Elementor/home.png)
+
+
+## Day 4 — On-Page SEO & Blog Optimization
+
+Today I learned how to write and optimize a blog using on-page SEO techniques. This included keyword research, content formatting, adding meta descriptions, alt text, and internal links to improve ranking and readability.
+
+### Hands-on Tasks: Write and optimize the first blog.
+
+Keyword research using Ubersuggest
+
+Wrote and formatted a blog with proper headings (H1, H2, H3)
+
+Added meta description & relevant keywords
+
+Included internal and external links
+
+Used alt text for images
+
+## Files in This Folder
 
 
 
