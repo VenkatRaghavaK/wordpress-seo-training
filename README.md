@@ -151,6 +151,80 @@ Google Analytics
 
 
 
+### Day 6 — Advanced WordPress Skills
+## Goals
+
+Improve website performance using caching and lazy loading
+
+Backup and secure the WordPress website
+
+Write and optimize the fourth blog post
+
+## Hands-on Tasks
+
+Performance Optimization
+
+Enabled caching using W3 Total Cache / WP Super Cache
+
+Implemented lazy loading for images and videos
+
+Optimized CSS, JS, and media for faster page load
+
+Website Backup & Security
+
+Installed UpdraftPlus for backups
+
+Created a full backup of the WordPress site
+
+Implemented basic security measures (limited login attempts, updated plugins/themes)
+
+## Blog Writing & Optimization
+
+Wrote Blog #4 with proper keyword placement
+
+Used headings (H2, H3) and meta descriptions
+
+Added internal and external links for SEO
+
+Screenshots / Files
+
+
+### Day 7 — Final Blog Writing and SEO Review
+Goals
+
+Write and optimize at least 5 blogs
+
+Review all blogs for SEO compliance and readability
+
+Hands-on Tasks
+
+Blog Writing & SEO Optimization
+
+Created Blog # 5
+
+Reviewed all 5 blogs (Blog #1–#5) for:
+
+Keywords & meta descriptions
+
+Internal and external links
+
+Image alt text
+
+Readability and formatting
+
+Draft Management
+
+Saved all blogs as drafts for final review before publishing
+
+Final Review
+
+Ensured website performance and SEO improvements were intact
+
+Verified backups and security measures
+
+Screenshots / Files
+
+
 
 
 
