@@ -189,8 +189,9 @@ Added internal and external links for SEO
 Screenshots / Files
 
 
-##Day 7 — Final Blog Writing and SEO Review
-Goals
+## Day 7 — Final Blog Writing and SEO Review
+
+### Goals
 
 Write and optimize at least 5 blogs
 
