@@ -197,7 +197,7 @@ Write and optimize at least 5 blogs
 
 Review all blogs for SEO compliance and readability
 
-Hands-on Tasks
+## Hands-on Tasks
 
 Blog Writing & SEO Optimization
 
@@ -217,7 +217,7 @@ Draft Management
 
 Saved all blogs as drafts for final review before publishing
 
-Final Review
+## Final Review
 
 Ensured website performance and SEO improvements were intact
 
