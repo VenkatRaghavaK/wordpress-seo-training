@@ -113,7 +113,7 @@ Used alt text for images
 
 
 
-### Day 5 — Off-Page SEO & Google Analytics
+## Day 5 — Off-Page SEO & Google Analytics
 
 ## Goals
 
@@ -151,8 +151,8 @@ Google Analytics
 
 
 
-### Day 6 — Advanced WordPress Skills
-## Goals
+## Day 6 — Advanced WordPress Skills
+### Goals
 
 Improve website performance using caching and lazy loading
 
@@ -189,7 +189,7 @@ Added internal and external links for SEO
 Screenshots / Files
 
 
-### Day 7 — Final Blog Writing and SEO Review
+##Day 7 — Final Blog Writing and SEO Review
 Goals
 
 Write and optimize at least 5 blogs
