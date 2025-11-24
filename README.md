@@ -90,7 +90,7 @@ Set it as homepage: Settings → Reading → Homepage
 
 ## Files in This Folder
 
-![Homepage](screenshots/Day3/Elementor/home.png)
+![Homepage](screenshots/Day3/Elementor/)
 
 
 ## Day 4 — On-Page SEO & Blog Optimization
@@ -110,6 +110,7 @@ Included internal and external links
 Used alt text for images
 
 ## Files in This Folder
+![Blog Optimization](screenshots/Day4/blog/)
 
 
 
@@ -149,7 +150,7 @@ Google Analytics
 
 ## Files in This Folder
 
-
+![Google Analytics](screenshots/Day5/)
 
 ## Day 6 — Advanced WordPress Skills
 ### Goals
@@ -187,7 +188,7 @@ Used headings (H2, H3) and meta descriptions
 Added internal and external links for SEO
 
 Screenshots / Files
-
+![Skills](screenshots/Day6/)
 
 ## Day 7 — Final Blog Writing and SEO Review
 
@@ -224,6 +225,8 @@ Ensured website performance and SEO improvements were intact
 Verified backups and security measures
 
 Screenshots / Files
+
+![Review](screenshots/Day7/)
 
 
 
