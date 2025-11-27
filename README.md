@@ -80,9 +80,9 @@ Services section (3 columns with icons)
 
 Gallery section
 
-Contact form section (CF7 or Elementor Pro)
+Contact form section (CF7)
 
-Make the page responsive (mobile/tablet)
+Make the page responsive (mobile)
 
 Publish the page
 
@@ -138,7 +138,6 @@ Integrate and verify Google Analytics (GA4)
 
  Verify tracking with a realtime screenshot
 
- Create basic backlink outreach plan
 
 ## Tools Used
 
@@ -165,7 +164,7 @@ Write and optimize the fourth blog post
 
 Performance Optimization
 
-Enabled caching using W3 Total Cache / WP Super Cache
+Enabled caching using WP Super Cache
 
 Implemented lazy loading for images and videos
 
@@ -177,7 +176,6 @@ Installed UpdraftPlus for backups
 
 Created a full backup of the WordPress site
 
-Implemented basic security measures (limited login attempts, updated plugins/themes)
 
 ## Blog Writing & Optimization
 
