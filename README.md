@@ -80,9 +80,9 @@ Services section (3 columns with icons)
 
 Gallery section
 
-Contact form section (CF7 or Elementor Pro)
+Contact form section (CF7)
 
-Make the page responsive (mobile/tablet)
+Make the page responsive (mobile)
 
 Publish the page
 
@@ -90,7 +90,7 @@ Set it as homepage: Settings → Reading → Homepage
 
 ## Files in This Folder
 
-![Homepage](screenshots/Day3/Elementor/home.png)
+![Homepage](screenshots/Day3/Elementor/)
 
 
 ## Day 4 — On-Page SEO & Blog Optimization
@@ -110,6 +110,7 @@ Included internal and external links
 Used alt text for images
 
 ## Files in This Folder
+![Blog Optimization](screenshots/Day4/blog/)
 
 
 
@@ -137,7 +138,6 @@ Integrate and verify Google Analytics (GA4)
 
  Verify tracking with a realtime screenshot
 
- Create basic backlink outreach plan
 
 ## Tools Used
 
@@ -149,7 +149,7 @@ Google Analytics
 
 ## Files in This Folder
 
-
+![Google Analytics](screenshots/Day5/)
 
 ## Day 6 — Advanced WordPress Skills
 ### Goals
@@ -164,7 +164,7 @@ Write and optimize the fourth blog post
 
 Performance Optimization
 
-Enabled caching using W3 Total Cache / WP Super Cache
+Enabled caching using WP Super Cache
 
 Implemented lazy loading for images and videos
 
@@ -176,7 +176,6 @@ Installed UpdraftPlus for backups
 
 Created a full backup of the WordPress site
 
-Implemented basic security measures (limited login attempts, updated plugins/themes)
 
 ## Blog Writing & Optimization
 
@@ -187,7 +186,7 @@ Used headings (H2, H3) and meta descriptions
 Added internal and external links for SEO
 
 Screenshots / Files
-
+![Skills](screenshots/Day6/)
 
 ## Day 7 — Final Blog Writing and SEO Review
 
@@ -224,6 +223,8 @@ Ensured website performance and SEO improvements were intact
 Verified backups and security measures
 
 Screenshots / Files
+
+![Review](screenshots/Day7/)
 
 
 
