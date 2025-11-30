@@ -24,7 +24,7 @@ Wrote & optimized multiple blogs (Blog #1–#5)
 
 Integrated Google Analytics (GA4) and verified tracking
 
-Implemented performance optimization (caching, lazy loading, CSS/JS optimization)
+Implemented performance optimization (caching, lazy loading)
 
 Created full website backup using UpdraftPlus
 
