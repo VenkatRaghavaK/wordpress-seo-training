@@ -1,3 +1,7 @@
+# Live Link
+https://studiq.kesug.com/
+https://studiq.kesug.com/blogs/
+
 # WordPress & SEO Training – Hands-on Tasks
 
 This repository documents all practical tasks completed during the WordPress and SEO Training program.
